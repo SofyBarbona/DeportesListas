@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1682644175 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\deporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deporte.h"
+
+1682648900 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1682648734 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deporte.h"
+	"lista.h"
+
+1682644348 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1682648712 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\dato.h
+	"deporte.h"
+
+1682644175 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\deporte.h
+
+1682648533 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\recuperacion\lista.h
+	"dato.h"
+
+1682644348 source:c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1682648712 c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\dato.h
+	"deporte.h"
+
+1682644175 c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\deporte.h
+
+1682644175 source:c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\deporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deporte.h"
+
+1682648900 source:c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1682648533 c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\lista.h
+	"dato.h"
+
+1682648965 source:c:\users\sofibarbona\desktop\sofia barbona\sofia barbona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deporte.h"
+	"lista.h"
+
+1682644348 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1682648712 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\dato.h
+	"deporte.h"
+
+1682644175 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\deporte.h
+
+1682644175 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\deporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deporte.h"
+
+1682649453 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1682648533 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\lista.h
+	"dato.h"
+
+1682648965 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\tarea recuperación clase del 21-4-2023\sofia barbona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deporte.h"
+	"lista.h"
+
+1682644348 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1682648712 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\dato.h
+	"deporte.h"
+
+1682644175 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\deporte.h
+
+1682644175 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\deporte.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deporte.h"
+
+1683909793 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1682648533 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\lista.h
+	"dato.h"
+
+1683859971 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 1\tarea recuperación clase del 21-4-2023\sofia barbona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deporte.h"
+	"lista.h"
+
